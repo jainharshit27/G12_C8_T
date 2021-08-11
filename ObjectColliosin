@@ -4,8 +4,6 @@ pygame.init()
 fps=30
 fpsclock=pygame.time.Clock()
 sur_obj=pygame.display.set_mode((400,300))
-pygame.display.set_caption("Rectangle")
-black=(0,0,0)
 p1=10
 p2=10
 step=5
